@@ -16,6 +16,17 @@
 
 ### InScan支持平台
 全平台支持，一个二进制文件，开箱即用。
+命令行启动
+```
+  -pocPort int
+        rpc端口，默认：8009 (default 8009)
+  -rpcPort int
+        rpc端口，默认：8008 (default 8008)
+  -sysTime int
+        系统信息上报时间，默认：15秒 (default 15)
+  -webPort int
+        web端口，默认：8080 (default 8080)
+```
 #### Windows使用
 推荐管理员权限打开cmd，在cmd界面执行inscan.exe（管理员权限可支持icmp快速探测存活）
 #### Linux使用
