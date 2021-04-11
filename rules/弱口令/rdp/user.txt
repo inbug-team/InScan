@@ -1,0 +1,5 @@
+administrator
+admin
+test
+user
+manager

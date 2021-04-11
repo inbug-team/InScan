@@ -1,0 +1,5 @@
+root
+vpxuser
+dcui
+esxi
+vmware
