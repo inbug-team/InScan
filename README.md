@@ -166,4 +166,4 @@ GitHub issue: https://github.com/inbug-team/InScan/issues
 https://www.inbug.org
 
 同时也可通过公众号联系：
-![-w784](images/032.jpeg)
+![-w784](images/InBug.png)
